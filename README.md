@@ -1,1 +1,1 @@
-# sqlzoo
+# Compiling solution of sqlzoo assignments.
